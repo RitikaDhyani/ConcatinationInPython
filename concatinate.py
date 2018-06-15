@@ -1,0 +1,10 @@
+print("a=Hello")
+print("b=Maya")
+a="Hello"
+b="Maya"
+print("c=a+b")
+c=a+b
+print("c=",c)
+c=a*3
+print("c=a*3")
+print(c)
